@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_064_all_2009080056_338a836209c54a7e.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://doc-0g-8o-docs.googleusercontent.com/docs/securesc/ologergkktu5dc9o2frim2ai4r5u252f/ak2r7c7euqm5kmsaho4or5s3j8sq8ubi/1612931025000/05696269700757184879/17557761493453596828/1Lkn5ZC7rubgIViVXjPiv03JfvO07c07A?e=download&authuser=0&nonce=ebfheei18bc06&user=17557761493453596828&hash=55gbde3et60qpnl39dsfcmh627ij9oht
+  ROM_NAME: HavoOS
   TZ: Asia/Shanghai
 
 jobs:
